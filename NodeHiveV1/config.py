@@ -1,0 +1,3 @@
+# MongoDB login details
+MASTER_DATA_SOURCE_HOST='localhost'
+MASTER_DATA_SOURCE_PORT=27017
